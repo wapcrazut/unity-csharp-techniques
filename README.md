@@ -18,11 +18,11 @@ Simple command manager using a queue to store commands.
 
 [Implementation](Assets/Scripts/CommandManager.cs)
 
-## Lamda Expressions
+## Lambda Expressions
 
-Simple button manager using lamda expressions to add listeners to buttons.
+Simple button manager using Lambda expressions to add listeners to buttons.
 
-![Lamda Expressions](preview_lambda.gif)
+![Lambda Expressions](preview_lambda.gif)
 
 [Implementation](Assets/Scripts/ButtonManager.cs)
 
